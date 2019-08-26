@@ -16,4 +16,8 @@ If wanted, I can probably get permission to post the source code.
 
 Basically infinite Out-Of-Order Superscalar problems, with solutions
 --------
-This exists (currently as a Python program), but I would need to convert it to a web tool so it couldn't be used as a homework solver.
+This exists (currently as a Python program), but I would need to convert it to a web tool so it couldn't be used as a homework solver. Contact me if demand exists.
+
+BHT and GHR simulator
+------------
+This exists (currently as a Python program), but I would need to convert it to a web tool so it couldn't be used as a homework solver. Contact me if demand exists.
