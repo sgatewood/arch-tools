@@ -7,7 +7,7 @@ The provided old quizzes with some added jquery magic.
 
 [Basically infinite Pipeline Practice Problems, with solutions](http://www.cs.virginia.edu/~stg2bd/simulator2/test.php)
 ------
-Generated at random. Special thanks to Layne Berry for the generation of random instructions.
+Generated at random. Special thanks to Layne Berry (@vlb9ae) for the generation of random instructions.
 
 [HCLRS Debugger](http://www.cs.virginia.edu/~stg2bd/debug.html)
 ------
