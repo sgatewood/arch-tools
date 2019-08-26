@@ -3,7 +3,7 @@ This repo serves as an index for the review tools I created in CS 3330 (Computer
 
 [Jquery Quizzes](http://people.virginia.edu/~stg2bd/arch_quizzes/index.html)
 -------
-Old quizzes with some added jquery magic.
+The provided old quizzes with some added jquery magic.
 
 [Basically infinite Pipeline Practice Problems, with solutions](http://www.cs.virginia.edu/~stg2bd/simulator2/test.php)
 ------
