@@ -9,3 +9,8 @@ Old quizzes with some added jquery magic.
 ------
 Generated at random. Special thanks to Layne Berry for the generation of random instructions.
 
+[HCLRS Debugger](http://www.cs.virginia.edu/~stg2bd/debug.html)
+------
+Translates HCLRS text output to an interactive debugging program with JQuery.
+If wanted, I can probably get permission to post the source code.
+
