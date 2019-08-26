@@ -5,3 +5,6 @@ This repo serves as an index for the review tools I created in CS 3330 (Computer
 -------
 Old quizzes with some added jquery magic.
 
+[Infinite Pipeline Practice Problems](http://www.cs.virginia.edu/~stg2bd/simulator2/test.php)
+Generated at random. Special thanks to Layne Berry for the generation of random instructions.
+
