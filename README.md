@@ -12,7 +12,7 @@ Generated at random. Special thanks to Layne Berry for the generation of random 
 [HCLRS Debugger](http://www.cs.virginia.edu/~stg2bd/debug.html)
 ------
 Translates HCLRS text output to an interactive debugging program with JQuery.
-If wanted, I can probably get permission to post the source code.
+If wanted, I could ask for permission to post the source code.
 
 Basically infinite Out-Of-Order Superscalar problems, with solutions
 --------
