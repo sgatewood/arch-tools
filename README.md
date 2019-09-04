@@ -1,6 +1,8 @@
 # Architecture Tools
 This repo serves as an index for the review tools I created in CS 3330 (Computer Architecture).
 
+9/4/19 NOTE: Some of these links were broken when the department reset the accounts for the new semester. I shall check if I have any backups...
+
 [Jquery Quizzes](http://people.virginia.edu/~stg2bd/arch_quizzes/index.html)
 -------
 The provided old quizzes with some added jquery magic.
